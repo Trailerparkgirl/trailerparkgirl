@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @parktrailergirl
+- 👋 Hi, I’m @trailerparkgirl
 - 👀 I’m interested in basketball
 - 🌱 I currently live in japan
 - 💞️ I’m looking for learn coding

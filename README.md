@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @parktrailergirl
 - 👀 I’m interested in basketball
-- 🌱 I’m currently learning japan
+- 🌱 I currently live in japan
 - 💞️ I’m looking for learn coding
 - 📫 PM to reach me
 

@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @trailerparkgirl
 - 👀 I’m interested in basketball
 - 🌱 I'm currently live in japan
-- 💞️ looking for learn coding
-
 
 <!---
 parktrailergirl/parktrailergirl is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
